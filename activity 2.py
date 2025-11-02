@@ -13,4 +13,4 @@ else:
     print("Not saved")
 
 cv2.destroyAllWindows()
-print("Image Dimentions: {resized_image.shape}")
+print(f"Image Dimentions: {resized_image.shape}")
